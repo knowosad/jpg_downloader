@@ -21,7 +21,7 @@ public class JpgDownloaderApplication {
 
     for (int i = 1; i < 793; i++) {
       			String url = "http://digitallibrary.tsu.ge/book/2018/SXVA/akti%20n1/krugmani_obstfeldi_melitci/mobile/content/pages/page" + i + ".jpg";
-      			Downloader.downloadWithStream(url, new File("C:\\Users\\tecna\\Desktop\\KN\\Repo\\jpg_downloader\\pages").getAbsolutePath());
+      			Downloader.downloadWithStream(url, new File("[***destination_directory***]").getAbsolutePath());
 
 //      String url =
 //          "http://digitallibrary.tsu.ge/book/2018/SXVA/akti%20n1/krugmani_obstfeldi_melitci/mobile/content/pages/page"
