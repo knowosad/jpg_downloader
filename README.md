@@ -1,1 +1,1 @@
-# jpg_downloader
+Project to download books from the digital library. The book consists of many HTML pages with a nested JPG file.
